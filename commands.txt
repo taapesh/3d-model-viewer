@@ -1,0 +1,6 @@
+L cessna
+L bu_head
+L cactus
+D
+L cessna
+T 0.0 0.0 0.03
